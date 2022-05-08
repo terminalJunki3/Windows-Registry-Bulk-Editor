@@ -1,6 +1,6 @@
 # Windows-Registry-Bulk-Editor
 
-PowerShell Script that allows you to set or check registry values against a csv list.
+PowerShell Script that allows you to set alist of registry values using a cvs list. There is also a function that you can check to see if registry values are set using the same csv list.
 
 
 ## Usage
